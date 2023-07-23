@@ -132,3 +132,6 @@ dmypy.json
 
 #Random Folder
 ml-100k
+
+#IDE
+.idea
